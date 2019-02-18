@@ -10,8 +10,13 @@ is Tirana, in Albania
 the authentication
 
 - further implementation
---start,stop button with the implementation of calculating distance and tiime
---reports in which it will show previous walks and times (to implement with firebase)
---navigation view
---icons for track
---goggle authentication for the sign in (momentarily is present only the button but not the function behind)
+
+-- start,stop button with the implementation of calculating distance and time
+
+-- reports in which it will show previous walks and times (to implement with firebase)
+
+-- navigation view
+
+-- icons for track
+
+-- goggle authentication for the sign in (momentarily is present only the button but not the function behind)
