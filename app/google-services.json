@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "411591836801",
+    "firebase_url": "https://walkabuddy-c392f.firebaseio.com",
+    "project_id": "walkabuddy-c392f",
+    "storage_bucket": "walkabuddy-c392f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411591836801:android:f2bf7fcd38c026e2",
+        "android_client_info": {
+          "package_name": "com.example.walkabuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411591836801-di91kqjd0h62tdaoimqdsa7danllthln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walkabuddy",
+            "certificate_hash": "517beaff5604c1f341297c59aed6e5ba56fcf51d"
+          }
+        },
+        {
+          "client_id": "411591836801-abrs87homsi057nvem5pfu362f0iueob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzUVOfQaUQvgoPsbgtuJRnfuFKadfF38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411591836801-abrs87homsi057nvem5pfu362f0iueob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

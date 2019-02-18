@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "411591836801",
+    "firebase_url": "https://walkabuddy-c392f.firebaseio.com",
+    "project_id": "walkabuddy-c392f",
+    "storage_bucket": "walkabuddy-c392f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411591836801:android:f2bf7fcd38c026e2",
+        "android_client_info": {
+          "package_name": "com.example.walkabuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411591836801-abrs87homsi057nvem5pfu362f0iueob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzUVOfQaUQvgoPsbgtuJRnfuFKadfF38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
