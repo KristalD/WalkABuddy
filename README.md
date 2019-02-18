@@ -6,9 +6,12 @@ the maps activity, it will ask for the gps permission and then
 it will pin point the user's location , if the gps is absent 
 it will put the marker in the location that i have decided, which 
 is Tirana, in Albania
+-the actual version had the Google Maps API, is connected to firebase for 
+the authentication
 
 - further implementation
 start,stop button with the implementation of calculating distance and tiime
 reports in which it will show previous walks and times (to implement with firebase)
 add pet
 icons for track
+goggle authentication for the sign in (momentarily is present only the button but not the function behind)
